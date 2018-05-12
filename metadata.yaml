@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31085#The-Galaxy-Volume-23-No.-2-February-1877
 gutenberg_bookshelf: The Galaxy
 gutenberg_issued: '2010-01-26'
 gutenberg_type: Text
